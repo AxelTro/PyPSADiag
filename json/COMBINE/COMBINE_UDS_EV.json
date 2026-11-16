@@ -499,7 +499,7 @@
                 {
                     "extra_name": "CFG_DPA_CMB_OBC_000",
                     "name_original": "CFG_DPA_CMB_OBC_000",
-                    "name": "Presence of on-board charger (OBC)",
+                    "name": "Presence of on-board computer (OBC)",
                     "byte": 18,
                     "mask": "00100000",
                     "form_type": "checkbox",
