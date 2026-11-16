@@ -346,7 +346,7 @@
         ]
       },
       "CFG_DPA_CMB_OBC_000": {
-        "name": "Presence of on-board charger (OBC)",
+        "name": "Presence of on-board computer (OBC)",
         "byte": 2,
         "type": "bool",
         "form_type": "combobox",
@@ -1010,7 +1010,7 @@
       "type": "raw",
       "form_type": "multi",
       "CFG_DP7_CMB_OBC_POPUPPAGE_000": {
-        "name": "Popup-Page on-board charger (OBC)",
+        "name": "Popup-Page on-board computer (OBC)",
         "byte": 18,
         "type": "bool",
         "form_type": "combobox",
@@ -1078,7 +1078,7 @@
         ]
       },
       "CFG_DPB_CMB_OBC_PERMANENTPAGE_000": {
-        "name": "Presence of permanent on-board charger page",
+        "name": "Presence of permanent on-board computer page",
         "byte": 19,
         "type": "bool",
         "form_type": "combobox",
